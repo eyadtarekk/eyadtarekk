@@ -1,29 +1,27 @@
- #Hi, I'm Eyad 👋
+## Hi, I'm Eyad 👋
 
-Computer Science student majoring in Software Engineering.
+Computer Science student majoring in Software Engineering, based in Egypt.
+I'm interested in software development, problem-solving, and building practical applications.
 
-Interested in software development, problem-solving, and building practical applications.
+## Featured Project
 
- ##Currently learning
+### [Smart Recruitment Assistant](https://github.com/eyadtarekk/Smart-Recruitment-Assistant-using-machine-learning-)
+A machine-learning project that compares Logistic Regression, Random Forest, and Gradient Boosting models, tuned with GridSearchCV and evaluated with accuracy, precision, recall, F1-score, and ROC-AUC. It ranks candidates by predicted probability and includes visualizations and a dashboard.
+
+More projects coming soon.
+
+## Currently Learning
+
 - Mobile programming
 - Data Structures & Algorithms
 - Software Engineering
 - Machine Learning
 
- ###Featured Projects
+## Technologies
 
-**Smart Recruitment Assistant**
-- A machine-learning project that compares multiple classification models.
-- Includes data preprocessing, model evaluation, candidate ranking, and a dashboard.
-- [View Project](https://github.com/eyadtarekk/Smart-Recruitment-Assistant-using-machine-learning-)
+Python, C++
 
- More projects coming soon!
+## Connect
 
- 
-  ####Technologies & Tools
-- Python
-- C++
-
-#####Connect with me
-- LinkedIn: [My LinkedIn](https://linkedin.com/in/eyad-tarek-30a2473b0)
-- GitHub: [My GitHub](https://github.com/eyadtarekk)
+- [LinkedIn](https://linkedin.com/in/eyad-tarek-30a2473b0)
+- Email: eyadta2007@gmail.com
