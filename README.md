@@ -24,6 +24,6 @@ Interested in software development, problem-solving, and building practical appl
 - Python
 - C++
 
-  #####Connect with me
+#####Connect with me
 - LinkedIn: [My LinkedIn](https://linkedin.com/in/eyad-tarek-30a2473b0)
 - GitHub: [My GitHub](https://github.com/eyadtarekk)
